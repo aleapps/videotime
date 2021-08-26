@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Sample Media Item 1", Sample Media Item 1
+https://aleapps.github.io/videotime/video-sample/sample-media1.mp4
+#EXTINF:-1 tvg-name="Sample Media Item 2", Sample Media Item 2
+https://aleapps.github.io/videotime/video-sample/sample-media2.mp4
+#EXTINF:-1 tvg-name="Sample Media Item 3", Sample Media Item 3
+https://aleapps.github.io/videotime/video-sample/sample-media3.mp4

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vtml-list>
+	<vtml-mediaitem>
+		<vtml-itemid>1</vtml-itemid>
+		<vtml-itemname>Sample Media Item 1</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/videotime/video-sample/sample-cover1.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/videotime/video-sample/sample-media1.mp4</vtml-itemurl>
+		<vtml-itemdescription>VideoTime Sample Media Item</vtml-itemdescription>
+		<vtml-itemcategory>Samples</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemid>2</vtml-itemid>
+		<vtml-itemname>Sample Media Item 2</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/videotime/video-sample/sample-cover2.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/videotime/video-sample/sample-media2.mp4</vtml-itemurl>
+		<vtml-itemdescription>VideoTime Sample Media Item</vtml-itemdescription>
+		<vtml-itemcategory>Samples</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemid>3</vtml-itemid>
+		<vtml-itemname>Sample Media Item 3</vtml-itemname>    
+		<vtml-itemcover>https://aleapps.github.io/videotime/video-sample/sample-cover3.png</vtml-itemcover>
+		<vtml-itemurl>https://aleapps.github.io/videotime/video-sample/sample-media3.mp4</vtml-itemurl>
+		<vtml-itemdescription>VideoTime Sample Media Item</vtml-itemdescription>
+		<vtml-itemcategory>Samples</vtml-itemcategory>
+	</vtml-mediaitem>
+</vtml-list>
